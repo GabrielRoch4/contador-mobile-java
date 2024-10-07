@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyContadorJava</string>
+    <string name="btn_aumentar">Aumentar</string>
+    <string name="btn_diminuir">Diminuir</string>
 </resources>
